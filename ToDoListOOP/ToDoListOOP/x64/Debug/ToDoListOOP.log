@@ -1,0 +1,11 @@
+﻿  ToDoListOOP.cpp
+C:\Users\Danil\source\repos\ToDoListOOP\ToDoListOOP\ToDoListOOP.cpp(31,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Danil\source\repos\ToDoListOOP\ToDoListOOP\ToDoListOOP.cpp(208,43): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Danil\source\repos\ToDoListOOP\ToDoListOOP\ToDoListOOP.cpp(274,31): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Danil\source\repos\ToDoListOOP\ToDoListOOP\ToDoListOOP.cpp(71,10): warning C4101: 'searchch': unreferenced local variable
+C:\Users\Danil\source\repos\ToDoListOOP\ToDoListOOP\ToDoListOOP.cpp(85,10): warning C4101: 'sortch': unreferenced local variable
+C:\Users\Danil\source\repos\ToDoListOOP\ToDoListOOP\ToDoListOOP.cpp(63,10): warning C4101: 'subch': unreferenced local variable
+C:\Users\Danil\source\repos\ToDoListOOP\ToDoListOOP\ToDoListOOP.cpp(78,10): warning C4101: 'printch': unreferenced local variable
+C:\Users\Danil\source\repos\ToDoListOOP\ToDoListOOP\ToDoListOOP.cpp(221,43): warning C4101: 'ch': unreferenced local variable
+C:\Users\Danil\source\repos\ToDoListOOP\ToDoListOOP\ToDoListOOP.cpp(287,32): warning C4101: 'ch': unreferenced local variable
+  ToDoListOOP.vcxproj -> C:\Users\Danil\source\repos\ToDoListOOP\x64\Debug\ToDoListOOP.exe
